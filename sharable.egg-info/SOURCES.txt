@@ -1,0 +1,7 @@
+setup.py
+sharable/__init__.py
+sharable/tools.py
+sharable.egg-info/PKG-INFO
+sharable.egg-info/SOURCES.txt
+sharable.egg-info/dependency_links.txt
+sharable.egg-info/top_level.txt
